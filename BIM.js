@@ -1,6 +1,6 @@
 ;register.push({
    id:'bim'
-   ,name:'(pale haTEL'I/non-terminating)Bashicu induction matrix'//Bashicu induction matrix at 2024/2/8
+   ,name:'(pale haTEL\'I/non-terminating)Bashicu induction matrix'//Bashicu induction matrix at 2024/2/8
    ,display:matrix_display
    ,able:matrix_limit
    ,compare:matrix_compare
